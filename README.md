@@ -11,7 +11,7 @@
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 
-**STEP-2:** BASIC TEMPLATE (Just Copy, edit & paste the given code) 👇
+**STEP-2:** BASIC TEMPLATE (Just Copy the given code) 👇
 
 ```
 ==========================================================================
@@ -27,12 +27,38 @@
 
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+  
+  
+
+
+**STEP-3:** Go to **Contributors** folder
 
 
 
-**STEP-3:** Write Your Name in commit message and press commit changes
 
-![image](https://user-images.githubusercontent.com/23385605/135757938-997bb931-11ac-462c-ae46-6a0335c089cf.png)
+  
+  
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+  
+  
+
+
+**STEP-4:** Create New Name your file as {yourname-rollno.md} eg:- **AbhishekYadav-200104001.md**
+
+
+
+
+  
+  
+  
+  
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+
+
+
+**STEP-5:** Write Your Name and roll number in commit message and press commit changes
+
+
 
 
 
@@ -42,15 +68,4 @@
 </p>
 
 
-
-# Our Community Students  👇
-
-==========================================================================
-
-## Harshit Sharma
-- Batch: 2020-2024 (ME)
-- Github Profile: https://github.com/harshit-sharma-gits
-- Linkedin Profile: https://www.linkedin.com/in/harshit-sharma-bb36b41b5
-
-==========================================================================
-
+<h1 align="center">🎉 Congratulations you are added to decoders community 🎉</h1>
