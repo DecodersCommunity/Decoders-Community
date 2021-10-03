@@ -54,3 +54,9 @@
 
 ==========================================================================
 
+## Ayush Som
+- Batch: 2020-2024 (IT)
+- Github Profile: https://github.com/ayushsom1
+- Linkedin Profile: https://www.linkedin.com/in/ayushsom/
+
+==========================================================================
