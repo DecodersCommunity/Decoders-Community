@@ -50,7 +50,7 @@
   
 
 
-**STEP-4:** Create New Name your file as {yourname-rollno.md} eg:- **AbhishekYadav-200104001.md** then paste and edit the template
+**STEP-4:** Create new file and name your file as {yourname-rollno.md} eg:- **AbhishekYadav-200104001.md** then paste and edit the template
   
 <img src="https://github.com/decodershbtu/Decoders-Community/blob/main/assets/create-your-name-file.gif"></img>
 
