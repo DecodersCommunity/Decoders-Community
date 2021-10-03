@@ -11,7 +11,7 @@
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 
-**STEP-2:** BASIC TEMPLATE (Just Copy, edit & paste the given code) 👇
+**STEP-2:** BASIC TEMPLATE (Just Copy, edit & paste the given code in README.md file) 👇
 
 ```
 ==========================================================================
@@ -44,4 +44,14 @@
 
 
 # Our Community Students  👇
+
+==========================================================================
+
+## Prakhar Tandon
+- Batch: 2020-2024 (CSE)
+- Github Profile: https://github.com/prakhart111
+- Linkedin Profile: https://www.linkedin.com/in/prakhar-tandon-581107201
+
+==========================================================================
+
 
