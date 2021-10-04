@@ -78,7 +78,7 @@
 
 
 
-**STEP-6:** Create your pull request to main branch & wait for review
+**STEP-6:** Create your pull request to main branch & wait for review.
 
 
 
