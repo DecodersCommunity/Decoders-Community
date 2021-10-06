@@ -53,6 +53,4 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 
 **STEP 6:** Create your pull request to main branch & wait for review
 
-#
-
 <h3 align="center">🎉 Congratulations! You have made your 1st Pull Request. 🎉</h3>
