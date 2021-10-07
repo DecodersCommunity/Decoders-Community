@@ -1,3 +1,5 @@
+![](https://github.com/decodershbtu/Decoders-Community/blob/main/assets/decoders_Logo_Black.png?raw=true)
+
 <img width="1000" alt="logo" src="https://user-images.githubusercontent.com/72811435/135575798-105b3530-6325-46d6-9935-76c41c683f04.png">
 
 Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. You can do this in a variety of ways:
@@ -8,11 +10,6 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 * Mentor others
 * Donate directly to open source projects
 # 
-
-![](https://github.com/decodershbtu/Decoders-Community/blob/main/assets/decoders_Logo_Black.png?raw=true)
-<h1 align="center" >Hi, Welcome to <a href="https://www.linkedin.com/in/iamartyaa/" target="_blank"> Decoders Community </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-
-<p align="center">{Please provide a basic intro to what Decoders is here !}</p>
 
 
 # 🚀 Contributing Guidelines 
