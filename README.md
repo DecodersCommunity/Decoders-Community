@@ -1,4 +1,4 @@
-<img align="center" width="1000" alt="logo" src="assets/CommnityBook-Header.png">
+<img align="center" width="1000" alt="logo" src="assets/Community-repo.png">
 
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
 <br/>
