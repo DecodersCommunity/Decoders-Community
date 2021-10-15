@@ -1,26 +1,43 @@
 <img align="center" width="1000" alt="logo" src="assets/Community-repo.png">
 
-☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
 <br/>
-
-  <br/>
+☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
+ <br/> <br/>
 
   <p align="center">
-<a href="https://t.me/decodershbtu">
+<a href="https://t.me/decoderscommunity">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50px" />
   </a>&nbsp; &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/company/decodershbtu">
+  <a href="https://www.linkedin.com/company/decoderscommunity">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="50px" />
   </a>&nbsp; &nbsp; &nbsp;
-  <a href="https://instagram.com/decodershbtu">
+  <a href="https://instagram.com/decoderscommunity">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CIS-A2K_Instagram_Icon_%28Pink%29.svg/640px-CIS-A2K_Instagram_Icon_%28Pink%29.svg.png" height="50px" />
   </a>&nbsp; &nbsp; &nbsp;
+  <a href="https://bit.ly/DecodersYoutube">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Antu_youtube-dl.svg/640px-Antu_youtube-dl.svg.png" height="50px" />
+  </a>&nbsp; &nbsp; &nbsp;
+  
+ 
+</p>
+
+ <p align="center">
+ Do star the Decoder's Community Book repository ✨✨✨
 
 </p>
+
   <br/>
+☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
+  <br/>  <br/>
+
+<p align="center"><a href="https://youtu.be/KPqjTNk-kKg"><img src="assets/CommunityBooks-Repo.gif"></img></a></p>
+
+
 
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
-<br/>
+
+
+ <br/> <br/>
 
 <img width="1000" alt="logo" src="https://user-images.githubusercontent.com/72811435/135575798-105b3530-6325-46d6-9935-76c41c683f04.png">
 
