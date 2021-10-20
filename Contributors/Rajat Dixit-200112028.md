@@ -1,0 +1,4 @@
+## Rajat Dixit
+- Batch: 2020-2024 {PL}
+- Github Profile: https://github.com/rajat7377
+- Linkedin Profile: https://www.linkedin.com/in/rajat-dixit-2b3566201/
