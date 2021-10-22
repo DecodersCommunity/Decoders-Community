@@ -90,9 +90,13 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 
 **STEP 6:** Create your pull request to main branch & wait for review
 
-<h3 align="center">🎉 Thanks for contributing to decoders community 🎉</h3>
+
 
 ## Contributors 🎉
 <a href="https://github.com/DecodersCommunity/Decoders-Community/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=DecodersCommunity/Decoders-Community" />
 </a>
+
+<br><br>
+
+<h3 align="center">🎉 Thanks for contributing to decoders community 🎉</h3>
