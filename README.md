@@ -39,9 +39,9 @@
 
  <br/> <br/>
 
-<img width="1000" alt="logo" src="https://user-images.githubusercontent.com/23385605/198820894-a8aa7f28-c34f-404a-8562-4810d7f095a4.png">
+<img width="1000" alt="logo" src="">
 
-Hacktoberfest, in its 9th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. You can do this in a variety of ways:
+Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. You can do this in a variety of ways:
 
 - Prepare and share your project for collaboration
 - Contribute to the betterment of a project via pull requests
